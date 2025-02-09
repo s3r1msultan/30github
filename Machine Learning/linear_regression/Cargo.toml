@@ -1,0 +1,11 @@
+[package]
+name = "linear_regression"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+polars = { version = "0.46", features = ["csv"] }
+ndarray = "0.15.6"
+linfa = "0.7.1"
+linfa-linear = "0.7.1"
+plotters = "0.3.7"
