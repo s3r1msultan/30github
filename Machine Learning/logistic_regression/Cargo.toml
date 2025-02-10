@@ -1,0 +1,11 @@
+[package]
+name = "logistic_regression"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+linfa = "0.7.1"
+linfa-logistic = "0.7.1"
+polars = "0.46.0"
+ndarray = "0.15.6"
+rand = "0.8.5"
