@@ -25,7 +25,7 @@ Happy coding! 🎉
 | --- | ---------- | ------------------------------------------------------ | ---------- |
 | 1   | 2025-02-09 | Started the challenge! 🚀 Studied Linear Regression    | ✅         |
 | 2   | 2025-02-10 | Studied Logistic Regression and Implemented it in Rust | ✅         |
-| 3   | 2025-02-11 |                                                        |            |
+| 3   | 2025-02-11 | Started making Rusty Chess game                        | ✅         |
 | 4   | 2025-02-12 |                                                        |            |
 | 5   | 2025-02-13 |                                                        |            |
 | 6   | 2025-02-14 |                                                        |            |
