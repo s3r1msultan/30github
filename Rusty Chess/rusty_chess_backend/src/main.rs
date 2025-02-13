@@ -1,3 +1,4 @@
+use actix_cors::Cors;
 use actix_web::{web, App, HttpServer, Responder, HttpResponse};
 use serde::{Serialize, Deserialize};
 use std::sync::Arc;
@@ -33,6 +34,7 @@ async fn main() -> std::io::Result<()> {
 
     HttpServer::new(move || {
         App::new()
+            .wrap(Cors::permissive())
             .app_data(web::Data::new(chess_game.clone()))
             .route("/board", web::get().to(get_board))
             .route("/move", web::post().to(make_move))

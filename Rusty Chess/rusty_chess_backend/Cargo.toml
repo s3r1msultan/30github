@@ -8,3 +8,4 @@ actix-web = "4.9.0"
 serde = { version = "1", features = ["derive"] }
 tokio = { version = "1", features = ["full"] }
 chess = "3.2"
+actix-cors = "0.7.0"

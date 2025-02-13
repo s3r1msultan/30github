@@ -26,7 +26,7 @@ export default function ChessGame() {
   };
 
   return (
-    <div className="flex justify-center items-center h-screen">
+    <div className="flex justify-center items-center h-screen min-w-96">
       <Chessboard
         position={fen}
         onPieceDrop={onDrop}

@@ -27,7 +27,7 @@ Happy coding! 🎉
 | 2   | 2025-02-10 | Studied Logistic Regression and Implemented it in Rust | ✅         |
 | 3   | 2025-02-11 | Rusty Chess game. Created simple Rust backend          | ✅         |
 | 4   | 2025-02-12 | Started making web part in NextJS                      | ✅         |
-| 5   | 2025-02-13 |                                                        |            |
+| 5   | 2025-02-13 | Used Tauri to create desktop version                   | ✅         |
 | 6   | 2025-02-14 |                                                        |            |
 | 7   | 2025-02-15 |                                                        |            |
 | 8   | 2025-02-16 |                                                        |            |
