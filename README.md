@@ -29,7 +29,7 @@ Happy coding! 🎉
 | 4   | 2025-02-12 | Started making web part in NextJS                      | ✅         |
 | 5   | 2025-02-13 | Used Tauri to create desktop version                   | ✅         |
 | 6   | 2025-02-14 | Started studying Random Forest supervised learning     | ✅         |
-| 7   | 2025-02-15 |                                                        |            |
+| 7   | 2025-02-15 | Solidified my knowledge of logistic regression         | ✅         |
 | 8   | 2025-02-16 |                                                        |            |
 | 9   | 2025-02-17 |                                                        |            |
 | 10  | 2025-02-18 |                                                        |            |
