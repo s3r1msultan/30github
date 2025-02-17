@@ -30,8 +30,8 @@ Happy coding! 🎉
 | 5   | 2025-02-13 | Used Tauri to create desktop version                   | ✅         |
 | 6   | 2025-02-14 | Started studying Random Forest supervised learning     | ✅         |
 | 7   | 2025-02-15 | Solidified my knowledge of logistic regression         | ✅         |
-| 8   | 2025-02-16 | Solved leetcode problems and revised my goals          | ✅         |
-| 9   | 2025-02-17 |                                                        |            |
+| 8   | 2025-02-16 | Solved leetcode problems and revised my goals of mine  | ✅         |
+| 9   | 2025-02-17 | Deepen into Open WebUI                                 | ✅         |
 | 10  | 2025-02-18 |                                                        |            |
 | 11  | 2025-02-19 |                                                        |            |
 | 12  | 2025-02-20 |                                                        |            |
