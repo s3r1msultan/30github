@@ -34,7 +34,7 @@ Happy coding! 🎉
 | 9   | 2025-02-17 | Deepen into Open WebUI                                 | ✅         |
 | 10  | 2025-02-18 | Practiced LeetCode                                     | ✅         |
 | 11  | 2025-02-19 | Practiced LeetCode                                     | ✅         |
-| 12  | 2025-02-20 |                                                        |            |
+| 12  | 2025-02-20 | Practiced LeetCode                                     | ✅         |
 | 13  | 2025-02-21 |                                                        |            |
 | 14  | 2025-02-22 |                                                        |            |
 | 15  | 2025-02-23 |                                                        |            |
