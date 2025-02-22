@@ -19,6 +19,8 @@ Over the next 30 days, I will strive to achieve the following:
 
 Happy coding! 🎉
 
+# GITHUB 30 CHALLENGE
+
 ## 📅 Progress Tracker
 
 | Day | Date       | Progress Summary                                       | Completed? |
@@ -55,3 +57,5 @@ Happy coding! 🎉
 | 30  | 2025-03-10 | Challenge completed! 🎉                                |            |
 
 ---
+
+
