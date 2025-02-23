@@ -19,8 +19,6 @@ Over the next 30 days, I will strive to achieve the following:
 
 Happy coding! 🎉
 
-# GITHUB 30 CHALLENGE
-
 ## 📅 Progress Tracker
 
 | Day | Date       | Progress Summary                                       | Completed? |
@@ -38,8 +36,8 @@ Happy coding! 🎉
 | 11  | 2025-02-19 | Practiced LeetCode                                     | ✅         |
 | 12  | 2025-02-20 | Practiced LeetCode                                     | ✅         |
 | 13  | 2025-02-21 | Practiced LeetCode                                     | ✅         |
-| 14  | 2025-02-22 |                                                        |            |
-| 15  | 2025-02-23 |                                                        |            |
+| 14  | 2025-02-22 | Practiced LeetCode and CodeForces                      | ✅         |
+| 15  | 2025-02-23 | Practiced LeetCode and CodeForces                      | ✅         |
 | 16  | 2025-02-24 |                                                        |            |
 | 17  | 2025-02-25 |                                                        |            |
 | 18  | 2025-02-26 |                                                        |            |
@@ -57,5 +55,3 @@ Happy coding! 🎉
 | 30  | 2025-03-10 | Challenge completed! 🎉                                |            |
 
 ---
-
-
