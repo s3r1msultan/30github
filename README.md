@@ -21,37 +21,37 @@ Happy coding! 🎉
 
 ## 📅 Progress Tracker
 
-| Day | Date       | Progress Summary                                       | Completed? |
-| --- | ---------- | ------------------------------------------------------ | ---------- |
-| 1   | 2025-02-09 | Started the challenge! 🚀 Studied Linear Regression    | ✅         |
-| 2   | 2025-02-10 | Studied Logistic Regression and Implemented it in Rust | ✅         |
-| 3   | 2025-02-11 | Rusty Chess game. Created simple Rust backend          | ✅         |
-| 4   | 2025-02-12 | Started making web part in NextJS                      | ✅         |
-| 5   | 2025-02-13 | Used Tauri to create desktop version                   | ✅         |
-| 6   | 2025-02-14 | Started studying Random Forest supervised learning     | ✅         |
-| 7   | 2025-02-15 | Solidified my knowledge of logistic regression         | ✅         |
-| 8   | 2025-02-16 | Solved leetcode problems and revised my goals of mine  | ✅         |
-| 9   | 2025-02-17 | Deepen into Open WebUI                                 | ✅         |
-| 10  | 2025-02-18 | Practiced LeetCode                                     | ✅         |
-| 11  | 2025-02-19 | Practiced LeetCode                                     | ✅         |
-| 12  | 2025-02-20 | Practiced LeetCode                                     | ✅         |
-| 13  | 2025-02-21 | Practiced LeetCode                                     | ✅         |
-| 14  | 2025-02-22 | Practiced LeetCode and CodeForces                      | ✅         |
-| 15  | 2025-02-23 | Practiced LeetCode and CodeForces                      | ✅         |
-| 16  | 2025-02-24 |                                                        |            |
-| 17  | 2025-02-25 |                                                        |            |
-| 18  | 2025-02-26 |                                                        |            |
-| 19  | 2025-02-27 |                                                        |            |
-| 20  | 2025-02-28 |                                                        |            |
-| 21  | 2025-03-01 |                                                        |            |
-| 22  | 2025-03-02 |                                                        |            |
-| 23  | 2025-03-03 |                                                        |            |
-| 24  | 2025-03-04 |                                                        |            |
-| 25  | 2025-03-05 |                                                        |            |
-| 26  | 2025-03-06 |                                                        |            |
-| 27  | 2025-03-07 |                                                        |            |
-| 28  | 2025-03-08 |                                                        |            |
-| 29  | 2025-03-09 |                                                        |            |
-| 30  | 2025-03-10 | Challenge completed! 🎉                                |            |
+| Day | Date       | Progress Summary                                              | Completed? |
+| --- | ---------- | ------------------------------------------------------------- | ---------- |
+| 1   | 2025-02-09 | Started the challenge! 🚀 Studied Linear Regression           | ✅         |
+| 2   | 2025-02-10 | Studied Logistic Regression and Implemented it in Rust        | ✅         |
+| 3   | 2025-02-11 | Rusty Chess game. Created simple Rust backend                 | ✅         |
+| 4   | 2025-02-12 | Started making web part in NextJS                             | ✅         |
+| 5   | 2025-02-13 | Used Tauri to create desktop version                          | ✅         |
+| 6   | 2025-02-14 | Started studying Random Forest supervised learning            | ✅         |
+| 7   | 2025-02-15 | Solidified my knowledge of logistic regression                | ✅         |
+| 8   | 2025-02-16 | Solved leetcode problems and revised my goals of mine         | ✅         |
+| 9   | 2025-02-17 | Deepen into Open WebUI                                        | ✅         |
+| 10  | 2025-02-18 | Practiced LeetCode                                            | ✅         |
+| 11  | 2025-02-19 | Practiced LeetCode                                            | ✅         |
+| 12  | 2025-02-20 | Practiced LeetCode                                            | ✅         |
+| 13  | 2025-02-21 | Practiced LeetCode                                            | ✅         |
+| 14  | 2025-02-22 | Practiced LeetCode and CodeForces                             | ✅         |
+| 15  | 2025-02-23 | Practiced LeetCode and CodeForces                             | ✅         |
+| 16  | 2025-02-24 | Practiced NextJS and started studying blockchain a little bit | ✅         |
+| 17  | 2025-02-25 |                                                               |            |
+| 18  | 2025-02-26 |                                                               |            |
+| 19  | 2025-02-27 |                                                               |            |
+| 20  | 2025-02-28 |                                                               |            |
+| 21  | 2025-03-01 |                                                               |            |
+| 22  | 2025-03-02 |                                                               |            |
+| 23  | 2025-03-03 |                                                               |            |
+| 24  | 2025-03-04 |                                                               |            |
+| 25  | 2025-03-05 |                                                               |            |
+| 26  | 2025-03-06 |                                                               |            |
+| 27  | 2025-03-07 |                                                               |            |
+| 28  | 2025-03-08 |                                                               |            |
+| 29  | 2025-03-09 |                                                               |            |
+| 30  | 2025-03-10 | Challenge completed! 🎉                                       |            |
 
 ---
