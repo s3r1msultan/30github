@@ -39,7 +39,7 @@ Happy coding! 🎉
 | 14  | 2025-02-22 | Practiced LeetCode and CodeForces                             | ✅         |
 | 15  | 2025-02-23 | Practiced LeetCode and CodeForces                             | ✅         |
 | 16  | 2025-02-24 | Practiced NextJS and started studying blockchain a little bit | ✅         |
-| 17  | 2025-02-25 |                                                               |            |
+| 17  | 2025-02-25 | Practiced LeetCode                                            | ✅         |
 | 18  | 2025-02-26 |                                                               |            |
 | 19  | 2025-02-27 |                                                               |            |
 | 20  | 2025-02-28 |                                                               |            |
