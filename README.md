@@ -41,8 +41,8 @@ Happy coding! 🎉
 | 16  | 2025-02-24 | Practiced NextJS and started studying blockchain a little bit | ✅         |
 | 17  | 2025-02-25 | Practiced LeetCode                                            | ✅         |
 | 18  | 2025-02-26 | Practiced LeetCode and was studying Open WebUI                | ✅         |
-| 19  | 2025-02-27 | Practiced LeetCode and was studying Open WebUI                | ✅ 
-| 20  | 2025-02-28 |                                                               |            |
+| 19  | 2025-02-27 | Practiced LeetCode and was studying Open WebUI                | ✅         |
+| 20  | 2025-02-28 | Had a messy day(                                              | ✅         |        
 | 21  | 2025-03-01 |                                                               |            |
 | 22  | 2025-03-02 |                                                               |            |
 | 23  | 2025-03-03 |                                                               |            |
