@@ -43,7 +43,7 @@ Happy coding! 🎉
 | 18  | 2025-02-26 | Practiced LeetCode and was studying Open WebUI                | ✅         |
 | 19  | 2025-02-27 | Practiced LeetCode and was studying Open WebUI                | ✅         |
 | 20  | 2025-02-28 | Had a messy day(                                              | ✅         |        
-| 21  | 2025-03-01 |                                                               |            |
+| 21  | 2025-03-01 | First day of the spring                                       | ✅         |
 | 22  | 2025-03-02 |                                                               |            |
 | 23  | 2025-03-03 |                                                               |            |
 | 24  | 2025-03-04 |                                                               |            |
